@@ -115,12 +115,8 @@ ai-feedback-insight-engine/
 
 <!-- Add your screenshots here. Blur any personal email addresses first. -->
 | Classified responses | HR alert email |
-|---|---|
-| ![Sheet](screenshots/sheet_results.png) | ![Alert](screenshots/alert_email.png) |
 
 | Retry & fallback in action | Automated triggers |
-|---|---|
-| ![Logs](screenshots/retry_logs.png) | ![Triggers](screenshots/triggers.png) |
 
 ## 🔮 Coming Next
 
@@ -130,7 +126,6 @@ ai-feedback-insight-engine/
 
 ## 👩‍💻 Author
 
-**[Your Name]** · Aspiring People Analyst
-[LinkedIn](#) · [Email](#)
+Reetu · Aspiring Analyst
 
 *Related project: [Attrition Risk Flagging System](#)*
